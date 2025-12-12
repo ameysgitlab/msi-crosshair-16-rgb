@@ -19,3 +19,5 @@ from .keyboard import (
 
 __version__ = "1.0.0"
 __author__ = "sarpowsky"
+__github__ = "https://github.com/sarpowsky"
+__repo__ = "https://github.com/sarpowsky/msi-katana-rgb"
