@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=MSI Katana RGB
+Comment=Control MSI Katana 15 B12V keyboard RGB lighting
+Exec=msi-katana-rgb
+Icon=preferences-desktop-keyboard
+Terminal=false
+Type=Application
+Categories=Utility;Settings;HardwareSettings;
+Keywords=msi;katana;rgb;keyboard;lighting;backlight;
+StartupNotify=true

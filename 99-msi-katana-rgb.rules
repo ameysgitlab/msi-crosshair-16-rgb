@@ -1,0 +1,15 @@
+# 99-msi-katana-rgb.rules
+# Udev rule to allow non-root access to MSI Katana keyboard RGB controller
+# 
+# Installation:
+#   sudo cp 99-msi-katana-rgb.rules /etc/udev/rules.d/
+#   sudo udevadm control --reload-rules
+#   sudo udevadm trigger
+#
+# Then log out and back in for changes to take effect.
+
+# MSI Katana 15 B12V Mystic Light keyboard controller (MS-1565)
+KERNEL=="hidraw*", ATTRS{idVendor}=="1462", ATTRS{idProduct}=="1601", MODE="0666", TAG+="uaccess"
+
+# Alternative: restrict to a specific group (uncomment if preferred)
+# KERNEL=="hidraw*", ATTRS{idVendor}=="1462", ATTRS{idProduct}=="1601", MODE="0660", GROUP="plugdev"
