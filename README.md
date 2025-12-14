@@ -9,6 +9,8 @@
 
 A Linux GUI application for controlling the 4-zone RGB keyboard on MSI Katana 15 B12V laptops.
 
+![MSI Katana RGB Screenshot](docs/screenshot.png)
+
 ## ✨ Features
 
 - 🎨 **Color picker** for each of the 4 keyboard zones
