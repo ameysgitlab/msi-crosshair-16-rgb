@@ -1,4 +1,4 @@
-# MSI Katana RGB Controller
+# MSI Crosshair 16 Controller
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Linux-blue?style=flat-square&logo=linux" alt="Linux">
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/GUI-PyQt6-orange?style=flat-square&logo=qt" alt="PyQt6">
 </p>
 
-A Linux GUI application for controlling the 4-zone RGB keyboard on MSI Katana 15 B12V laptops.
+A Linux GUI application for controlling the 4-zone RGB keyboard on MSI Crosshair 16 laptops.
 
 ![MSI Katana RGB Screenshot](docs/screenshot.png)
 
