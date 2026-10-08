@@ -24,6 +24,7 @@ A Linux GUI application for controlling the 4-zone RGB keyboard on MSI Crosshair
 
 | Device | Model Code | Status |
 |--------|------------|--------|
+| MSI Crosshair 16  | ✅ Tested |
 | MSI Katana 15 B12V | MS-1565 | ✅ Tested |
 | MSI Katana 15 B12VEK | MS-1565 | ✅ Should work |
 | MSI Katana 15 B12VFK | MS-1565 | ✅ Should work |
