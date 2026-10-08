@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-# msi-katana-rgb
-# Main entry point for MSI Katana RGB Controller
+# msi-crosshair-16-rgb
+# Main entry point for MSI Crosshair 16 RGB Controller
 
 """
-MSI Katana RGB Controller
+MSI Crosshair 16 RGB Controller
 A Linux GUI application for controlling the 4-zone RGB keyboard 
-on MSI Katana 15 B12V laptops.
+on MSI Crosshair 16 15 B12V laptops.
 
 Author: sarpowsky (https://github.com/sarpowsky)
 License: MIT

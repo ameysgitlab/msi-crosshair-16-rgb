@@ -21,7 +21,7 @@ except ImportError:
 
 # MSI Katana 15 B12V keyboard identifiers
 VENDOR_ID = 0x1462
-PRODUCT_ID = 0x1601
+PRODUCT_ID = 0x1603
 
 # Packet structure constants
 REPORT_ID_WRITE = 2
@@ -46,7 +46,7 @@ WAVE_RIGHT_TO_LEFT = 0
 WAVE_LEFT_TO_RIGHT = 1
 
 # Zone bitmasks (bits 0-3 map to zones left to right)
-ZONE_ALL = 0b1111
+ZONE_ALL = 0xFF
 ZONE_1 = 0b0001  # leftmost
 ZONE_2 = 0b0010
 ZONE_3 = 0b0100

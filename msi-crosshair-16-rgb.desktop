@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=MSI Crosshair 16 RGB
+Comment=Control MSI Crosshair 16 15 B12V keyboard RGB lighting
+Exec=msi-crosshair-16-rgb
+Icon=preferences-desktop-keyboard
+Terminal=false
+Type=Application
+Categories=Utility;Settings;HardwareSettings;
+Keywords=msi;crosshair-16;rgb;keyboard;lighting;backlight;
+StartupNotify=true

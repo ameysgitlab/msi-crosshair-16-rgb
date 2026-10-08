@@ -9,7 +9,7 @@
 # Then log out and back in for changes to take effect.
 
 # MSI Katana 15 B12V Mystic Light keyboard controller (MS-1565)
-KERNEL=="hidraw*", ATTRS{idVendor}=="1462", ATTRS{idProduct}=="1601", MODE="0666", TAG+="uaccess"
+KERNEL=="hidraw*", ATTRS{idVendor}=="1462", ATTRS{idProduct}=="1603", MODE="0666", TAG+="uaccess"
 
 # Alternative: restrict to a specific group (uncomment if preferred)
-# KERNEL=="hidraw*", ATTRS{idVendor}=="1462", ATTRS{idProduct}=="1601", MODE="0660", GROUP="plugdev"
+# KERNEL=="hidraw*", ATTRS{idVendor}=="1462", ATTRS{idProduct}=="1603", MODE="0660", GROUP="plugdev"
